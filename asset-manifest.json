@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/advency/static/css/main.01974166.chunk.css",
+    "main.js": "/advency/static/js/main.7d2cdf5c.chunk.js",
+    "main.js.map": "/advency/static/js/main.7d2cdf5c.chunk.js.map",
+    "runtime-main.js": "/advency/static/js/runtime-main.7b988320.js",
+    "runtime-main.js.map": "/advency/static/js/runtime-main.7b988320.js.map",
+    "static/js/2.d9d5053c.chunk.js": "/advency/static/js/2.d9d5053c.chunk.js",
+    "static/js/2.d9d5053c.chunk.js.map": "/advency/static/js/2.d9d5053c.chunk.js.map",
+    "static/js/3.63237f43.chunk.js": "/advency/static/js/3.63237f43.chunk.js",
+    "static/js/3.63237f43.chunk.js.map": "/advency/static/js/3.63237f43.chunk.js.map",
+    "index.html": "/advency/index.html",
+    "static/css/main.01974166.chunk.css.map": "/advency/static/css/main.01974166.chunk.css.map",
+    "static/js/2.d9d5053c.chunk.js.LICENSE.txt": "/advency/static/js/2.d9d5053c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b988320.js",
+    "static/js/2.d9d5053c.chunk.js",
+    "static/css/main.01974166.chunk.css",
+    "static/js/main.7d2cdf5c.chunk.js"
+  ]
+}
